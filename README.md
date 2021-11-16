@@ -2,8 +2,10 @@
 
 Exercice avec 1 fichier index.html et 1 fichier styles.css ;
 
-changement de couleur ; 
+Modification du titre ;
 
-ajout branche cagnotte ; 
+Modification de la couleur ; 
 
-fusion des branches main et cagnotte (merge)
+Ajout branche cagnotte ; 
+
+Fusion des branches main et cagnotte (merge)
